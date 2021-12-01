@@ -31,14 +31,18 @@ The library used in reading the PDF is [pdfplumber](https://github.com/jsvine/pd
 pip install pdfplumber
 ```
 ## Necessity
-The reason for this project is that the method in which the analysis is being solved is by manual paper work. All the results (400+) are printed and checked manually by workers which is really tedious and tiring. So this project aims to reduce if not eliminate manual labour and save time. The analysis is done so to know the number of students with an exact grade for all subjects.
+The reason for building this project is that the method in which the result analysis is being carried out is of manual paper work. All the results (400+) are printed and checked manually by workers which is really tedious and tiring. 
+
+So this project aims to reduce if not eliminate manual labour and save time. The analysis is done so to know the number of students with an exact grade for all subjects.
+
+
 For instance, below shows the analysis of mathematics. You can imagine processing all the grades for all subjects.
-```bash
+```
 MATHEMATICS
 A1 - 20, B2 - 34, B3 - 16, C4 - 7, C5 - 4, C6 - 8, D7 - 10, E8 - 1, F9 - 2, HELD - 3, ABSENT - 0
 
-PASSED (%) - 89/105 * 100 = 85%
-FAILED (%) - 16/105 * 100 = 15%
+TOTAL PASSED - 89/105 * 100 = 85%
+TOTAL FAILED - 16/105 * 100 = 15%
 ```
 
 
