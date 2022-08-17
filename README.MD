@@ -2,7 +2,7 @@
 
 
 A python script that fetches the grades of a student from a [WAEC](https://www.waecdirect.org/) result in pdf format.
-Built for federal government college, Warri, Delta State. 
+Built for Federal Government College, Warri, Delta State. 
 
 A typical WAEC (West African Examination Council) result contains the Candidate Information and Subject Grades. This script is focused on the Subject Grades section.
 
